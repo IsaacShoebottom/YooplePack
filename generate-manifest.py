@@ -7,7 +7,7 @@ def main():
     
     NAME = "YooplePack"
     VERSION = "1.0.0"
-    WEBSITE = "https://git.shoebottom.ca/IsaacShoebottom/YooplePack"
+    WEBSITE = "https://github.com/IsaacShoebottom/YooplePack"
     DESCRIPTION = "Modpack for the Yoople server"
 
     # Read dependencies file
