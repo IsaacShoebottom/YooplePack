@@ -14,5 +14,6 @@ You might want to do this if you have conflicting mods (e.g. Yippee Loot Bug)
 
 - Dracula Flow Bug
 - Landmine Fart Reverb
+- Whistle Jester
 - Lethal Clunk (Metal pipe on large gear drop)
 - Minimap (Configured to be disabled by default)
