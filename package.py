@@ -6,6 +6,7 @@ def main():
     files = [
         "manifest.json",
         "README.md",
+        "icon.png",
         "BepInEx/"
     ]
 
