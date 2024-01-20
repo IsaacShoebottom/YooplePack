@@ -1,7 +1,7 @@
 {
-    "name": "Yoople Pack",
-    "version": "1.0.0",
-    "websiteUrl": "https://git.shoebottom.ca/IsaacShoebottom/YooplePack",
+    "name": "YooplePack",
+    "version_number": "1.0.0",
+    "website_url": "https://git.shoebottom.ca/IsaacShoebottom/YooplePack",
     "description": "Modpack for the Yoople server",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",

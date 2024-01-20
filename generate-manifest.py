@@ -5,7 +5,7 @@ def main():
     # Parse first arg for path to dependencies
     deps_file = sys.argv[1]
     
-    NAME = "Yoople Pack"
+    NAME = "YooplePack"
     VERSION = "1.0.0"
     WEBSITE = "https://git.shoebottom.ca/IsaacShoebottom/YooplePack"
     DESCRIPTION = "Modpack for the Yoople server"
@@ -22,8 +22,8 @@ def main():
     # Create manifest
     manifest = {
         "name": NAME,
-        "version": VERSION,
-        "websiteUrl": WEBSITE,
+        "version_number": VERSION,
+        "website_url": WEBSITE,
         "description": DESCRIPTION,
         "dependencies": deps
     }
