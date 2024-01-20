@@ -30,3 +30,4 @@ KlippKlubben-DraculaFlowBug-1.2.0
 Kittenji-Maxwell_ScrapItem-1.0.1
 JunLethalCompany-GamblingMachineAtTheCompany-1.3.5
 Amlinde-WhistleJester-1.0.0
+nodelll-kruumys_FixResolution-1.0.0
