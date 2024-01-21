@@ -33,3 +33,9 @@ Amlinde-WhistleJester-1.0.0
 nodelll-kruumys_FixResolution-1.0.0
 Midge-PushCompany-1.2.0
 KoderTeh-Boombox_Controller-1.1.9
+FutureSavior-Boombox_Sync_Fix-1.1.2
+HolographicWings-LethalExpansion-1.3.22
+jockie-LethalExpansionCore-1.3.14
+sfDesat-Orion-1.2.3
+sfDesat-ExpansionAssets-1.0.0
+sfDesat-Aquatis-1.1.0
