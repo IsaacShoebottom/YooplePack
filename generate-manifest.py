@@ -4,9 +4,9 @@ import json
 def main():
     # Parse first arg for path to dependencies
     deps_file = sys.argv[1]
-    
+
     NAME = "YooplePack"
-    VERSION = "1.3.0"
+    VERSION = "1.4.0"
     WEBSITE = "https://github.com/IsaacShoebottom/YooplePack"
     DESCRIPTION = "Modpack for the Yoople server"
 
