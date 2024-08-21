@@ -8,12 +8,23 @@ Export the mods from r2modman (Settings > Modpacks > Show dependancy strings) to
 
 `python generate-manifest.py <file>`
 
-# Optional mods you can disable if you want
+# Core Mods
 
-You might want to do this if you have conflicting mods (e.g. Yippee Loot Bug)
+Anything else is probably disableable
 
-- Dracula Flow Bug
-- Landmine Fart Reverb
-- Whistle Jester
-- Lethal Clunk (Metal pipe on large gear drop)
-- Minimap (Configured to be disabled by default)
+- BepInExPack
+- MoreCompany
+- LateCompany
+- SpectateEnemies
+- LethalCasino
+- Skinwalkers
+- Orion
+- Aquatis
+- Mimics
+- Celest
+
+# Mods you might want to disable
+
+- Minimap
+- EladsHud
+- ScrollInverter

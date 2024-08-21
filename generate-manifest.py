@@ -6,7 +6,7 @@ def main():
     deps_file = sys.argv[1]
 
     NAME = "YooplePack"
-    VERSION = "1.4.0"
+    VERSION = "1.5.0"
     WEBSITE = "https://github.com/IsaacShoebottom/YooplePack"
     DESCRIPTION = "Modpack for the Yoople server"
 
